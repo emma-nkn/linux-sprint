@@ -18,5 +18,5 @@ passwd bobby
 verification:
 
 ![Connexion bobby](asset/Capture_mdp_bobby2.png)
-![Connexion bobby](asset/Capture_mdp_root.png)
+![Connexion root](asset/Capture_mdp_root.png)
 ```

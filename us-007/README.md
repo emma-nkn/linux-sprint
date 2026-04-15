@@ -4,8 +4,6 @@
 
 Apprendre à naviguer dans le système Linux avec les commandes de base.
 
----
-
 ## Emplacement actuel
 
 ```bash
@@ -23,3 +21,6 @@ cd /etc
 ##  Auto-complétion TAB
 cd /ho[TAB]
 ```
+
+![historique](asset/Capture_history_decommande1.png)
+![navigation](asset/Capture_navigation.png)
